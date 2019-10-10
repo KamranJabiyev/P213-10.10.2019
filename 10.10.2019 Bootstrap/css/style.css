@@ -1,0 +1,37 @@
+.red {
+    background: red;
+    height: 150px;
+}
+
+.green {
+    background: green;
+    height: 150px;
+}
+
+.blue {
+    background: blue;
+    height: 150px;
+}
+
+.gray {
+    background: gray;
+    height: 150px;
+}
+
+.green_test {
+    background: green;
+    color: white;
+}
+
+.button-color {
+    color: black;
+}
+
+.button-color:hover {
+    color: black;
+}
+
+
+/* .red-nav {
+    background: red !important;
+} */
